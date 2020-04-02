@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Markets
-permalink: /markets/
+title: Politics
+permalink: /politics/
 ---
 
 <div class="posts">
-  {% for post in site.categories[1][1] %}
+  {% for post in site.categories.Politics %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>

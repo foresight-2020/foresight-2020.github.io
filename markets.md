@@ -5,7 +5,7 @@ permalink: /markets/
 ---
 
 <div class="posts">
-  {% for post in site.categories[0][1] %}
+  {% for post in site.categories.Markets %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
