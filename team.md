@@ -4,15 +4,9 @@ title: Our Team
 permalink: /team/
 ---
 
-### Bliss Perry
+{% for team_member in site.team_members %}
 
-![Bliss photo]({{ site.baseurl }}/images/bliss-profile-pic.jpg)
-Bliss's bio goes here
-
-### Nihar Sheth
-
-Nihar's bio goes here
-
-### Davis Tyler-Dudley
-
-Davis's bio goes here
+  <h2>{{ team_member.name }}</h2>
+  <img class="profilepic" src="{{ site.baseurl }}/images/{{ team_member.short }}.jpg" >
+  <p>{{ team_member.content | markdownify }}</p>
+{% endfor %}
