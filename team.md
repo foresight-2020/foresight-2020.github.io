@@ -4,12 +4,15 @@ title: Our Team
 permalink: /team/
 ---
 
-Some information about you!
+### Bliss Perry
 
-### More Information
+![Bliss photo]({{ site.baseurl }}/images/bliss-profile-pic.jpg)
+Bliss's bio goes here
 
-A place to include any other types of information that you'd like to include about yourself.
+### Nihar Sheth
 
-### Contact me
+Nihar's bio goes here
 
-[email@domain.com](mailto:email@domain.com)
+### Davis Tyler-Dudley
+
+Davis's bio goes here
