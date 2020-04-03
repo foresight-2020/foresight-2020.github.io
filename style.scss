@@ -250,10 +250,6 @@ nav {
   }
 }
 
-//
-// .main
-//
-
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -261,7 +257,7 @@ nav {
 
 .profilepic {
   height: 300px;
-  width: 300px;
+  // width: 300px;
 }
 
 .posts > .post:last-child {
