@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+{% for team_member in site.team_members %}
 
-### More Information
+  <h2>{{ team_member.name }}</h2>
+  <img class="profilepic" src="{{ site.baseurl }}/images/{{ team_member.short }}.jpg">
+  <p>{{ team_member.content | markdownify }}</p>
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+{% endfor %}
