@@ -1,0 +1,32 @@
+.post-preview-header {
+    margin-bottom: 0px;
+}
+
+.post-preview-subheader {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.post-preview-image {
+    margin-top: 20px;
+    width: 40%;
+    float: left;
+    padding: 0px 20px 10px 0px;
+
+    @include mobile {
+        margin-top: 5px;
+        width: 50%;
+    }
+}
+
+.blurb-entry {
+    display: block;
+    overflow: hidden;
+    text-align: justify;
+    text-justify: auto;
+
+    @include mobile {
+        display: inline; 
+        overflow: initial;
+    }
+}

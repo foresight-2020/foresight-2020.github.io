@@ -1,0 +1,18 @@
+<article class="post">
+  <div>
+    <h2 class="post-preview-header">
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    <h4 class="post-preview-subheader">
+      By {{ post.author }}, {{ post.date-written }}
+    </h4>
+  </div>
+
+  <div class="post-preview-container">
+    <img class="post-preview-image" src="/images/{{ post. short}}/blurb.jpg" />
+    <span class="blurb-entry">
+      {{ post.excerpt }}
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </span>
+  </div>
+</article>
