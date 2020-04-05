@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capitalizing on a Crisis - China's Strategic Move
+title: Capitalizing on a Crisis - China's Strategic Moves
 short: covid19-capitalizing-crisis
 categories: Politics
 author: Davis Tyler-Dudley
