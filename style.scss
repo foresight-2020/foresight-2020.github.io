@@ -166,6 +166,33 @@ img {
   clear: both;
 }
 
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid $lightGray;
+}
+
+th {
+  border: 1px solid $lightGray;
+  font-weight: 700;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+td {
+  border: 1px solid $lightGray;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
