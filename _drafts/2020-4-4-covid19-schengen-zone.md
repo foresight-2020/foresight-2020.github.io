@@ -6,6 +6,7 @@ categories: Politics
 author: Bliss Perry
 date-written: April 4th, 2020
 excerpt_separator: <!--more-->
+excerpt: <p> The coronavirus has inflicted tragedy across the European continent to such a degree that it has endangered the core tenets of the European Union itself - particuarly, free movement. In this article, we examine the economic and political ramifications of resumed border control within the Schengen Zone. </p>
 ---
 
 Many Europeans flipped through their calendars on March 25th, 2020 as if it were any other day. The date - the 30th anniversary of the implementation of the Schengen Area, a border-control-free travel zone spanning 26 European states - passed by without much fanfare by the very citizens from Poland to Portugal who have reaped its benefits hundreds of times. Perhaps it’s to be expected, though, when the surging coronavirus pandemic has kept millions of Europeans from even leaving their doorsteps, let alone their country’s borders.
