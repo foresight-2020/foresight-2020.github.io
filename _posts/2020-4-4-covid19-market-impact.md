@@ -5,9 +5,12 @@ short: covid19markets
 categories: Markets
 author: Nihar Sheth
 date-written: April 4th, 2020
+excerpt: <p>In their excellent book, <i>Superforecasting</i>, Philip Tetlock and Dan Gardner make the case that there are two ways to look at any situation - the “inside view” and the “outside view.” The inside view looks at the specifics of the situation and tries to make judgements about how it will play out. The outside view looks at historical precedents for that situation, and tries to anchor predictions to those historical examples.</p>
 ---
 
-In their excellent book, <i>Superforecasting</i>, Philip Tetlock and Dan Gardner make the case that there are two ways to look at any situation: the “inside view” and the “outside view.” The inside view looks at the specifics of the situation and tries to make judgements about how it will play out. The outside view looks at historical precedents for that situation, and tries to anchor predictions to those historical examples. <!--more-->
+![Article Header](/images/covid19markets/blurb.jpg)
+
+In their excellent book, <i>Superforecasting</i>, Philip Tetlock and Dan Gardner make the case that there are two ways to look at any situation: the “inside view” and the “outside view.” The inside view looks at the specifics of the situation and tries to make judgements about how it will play out. The outside view looks at historical precedents for that situation, and tries to anchor predictions to those historical examples.
 
 In an investing context, taking an “inside view” of a particular investment opportunity (say, equity in a company) means looking at all the specifics of that business and trying to make a judgement: what is the company’s value proposition to customers, competitive positioning, “moat,” strength of management, etc. These are all the things investors look at before making a call. The outside view would entail looking at historical precedent: how have companies in this industry done historically, how have companies with a similar level of management ownership done historically, how have companies with a similar leverage profile done historically, etc.
 
