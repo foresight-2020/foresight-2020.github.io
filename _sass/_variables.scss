@@ -5,6 +5,7 @@
 
 // Colors
 $blue: #4183C4;
+$blueHover: rgb(10, 53, 95);
 
 // Grays
 $black: #000;
@@ -18,6 +19,8 @@ $white: #fff;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$raleway: 'Raleway', sans-serif;
+$montserrat: 'Montserrat', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {

@@ -21,8 +21,16 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $montserrat;
   color: $darkGray;
+}
+
+.column-header {
+  font-style: italic;
+}
+
+.column-header-bold {
+  font-weight: 900;
 }
 
 .container {
@@ -38,7 +46,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $helveticaNeue;
+  font-family: $raleway;
   color: $darkerGray;
   font-weight: bold;
 
@@ -209,9 +217,9 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 400;
-  font-size: 28px;
+  font-family: $raleway;
+  font-weight: 700;
+  font-size: 32px;
   letter-spacing: 1px;
 }
 
@@ -228,8 +236,8 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
+  font-family: $raleway;
+  font-size: 16px;
 
   @include mobile {
     float: none;
@@ -259,10 +267,15 @@ nav {
     width: min-content;
     padding: 10px 7px 10px 7px;
     border-radius: 7px;
+    transition: 0.3s;
 
     @include mobile {
       margin-left: 0px;
     }
+  }
+
+  span:hover {
+    background-color: $blueHover;
   }
 }
 
@@ -271,10 +284,23 @@ nav {
   border-bottom: 1px solid $lightGray;
 }
 
+.about-header {
+  font-style: italic;
+}
+
 .profilepic {
-  height: 300px;
+  width: 32%;
   float: left;
   padding: 0px 20px 10px 0px;
+
+  @include mobile {
+    width: 50%;
+  }
+}
+
+.profile-blurb {
+  text-align: justify;
+  text-justify: auto;
 }
 
 .posts > .post:last-child {
