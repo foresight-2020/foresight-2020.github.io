@@ -139,6 +139,15 @@ img {
   max-width: none;
 }
 
+.post-title {
+  margin-bottom: 0px;
+
+  @include mobile {
+    font-size: 28px;
+    margin-bottom: initial;
+  }
+}
+
 .date {
   font-style: italic;
   color: $gray;
@@ -271,7 +280,7 @@ nav {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
+    font-size: 14px;
   }
 
   a {
