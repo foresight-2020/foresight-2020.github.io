@@ -21,7 +21,7 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $montserrat;
+  font: 18px/1.4 $spectral;
   color: $darkGray;
 }
 
@@ -46,7 +46,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $raleway;
+  font-family: $spectral;
   color: $darkerGray;
   font-weight: bold;
 
@@ -165,6 +165,33 @@ img {
   clear: both;
 }
 
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid $lightGray;
+}
+
+th {
+  border: 1px solid $lightGray;
+  font-weight: 700;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+td {
+  border: 1px solid $lightGray;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -217,7 +244,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $raleway;
+  font-family: $spectral;
   font-weight: 700;
   font-size: 32px;
   letter-spacing: 1px;
@@ -236,7 +263,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $raleway;
+  font-family: $spectral;
   font-size: 16px;
 
   @include mobile {
