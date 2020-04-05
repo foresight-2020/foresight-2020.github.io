@@ -3,8 +3,10 @@ name: Davis Tyler-Dudley
 short: davis
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Davis is a junior at Harvard majoring in an interdisciplinary combination of philosophy, politics, and economics (known as Social Studies) with a secondary in another interdisciplinary combination of psychology and neuroscience (known as Mind, Brain, Behavior). His academic focus centers largely on international relations.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+His interest in international affairs led him to become heavily involved in the Harvard International Relations Council, where he serves on the board of directors, and the Weatherhead Center for International Affairs, where he now works as a research assistant and translator. He aims to bring this perspective to the issues covered on this blog, working alongside Nihar and Bliss to create interesting content.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+In the past, Davis has interned for the Ministry of Finance of Chile, crafting policy proposals for institutional modernization through the use of data-mining and artificial intelligence technology. Last year he helped to spearhead the UNESCO award-winning BonVoyage Project in Paris, which sought to prevent sexual assault and harassment on public transit. Global pandemics notwithstanding, Davis was slated to work for the US Department of State this summer interning with an internal project management team in the Office of eDiplomacy.
+
+Some of his hobbies include Model United Nations, learning languages, and a cappella singing.
