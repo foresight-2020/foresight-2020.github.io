@@ -8,15 +8,17 @@ date-written: April 4th, 2020
 excerpt_separator: <!--more-->
 ---
 
-Many Europeans flipped through their calendars on March 25th, 2020 as if it were any other day. The date - the 30th anniversary of the implementation of the Schengen Area, a border-control-free travel zone spanning 26 European states - passed by without much fanfare by the very citizens from Poland to Portugal who have reaped its benefits hundreds of times. <!--more--> Perhaps it’s to be expected, though, when the surging coronavirus pandemic has kept millions of Europeans from even leaving their doorsteps, let alone their country’s borders.
+Many Europeans flipped through their calendars on March 25th, 2020 as if it were any other day. The date - the 30th anniversary of the implementation of the Schengen Area, a border-control-free travel zone spanning 26 European states - passed by without much fanfare by the very citizens from Poland to Portugal who have reaped its benefits hundreds of times. Perhaps it’s to be expected, though, when the surging coronavirus pandemic has kept millions of Europeans from even leaving their doorsteps, let alone their country’s borders.
 
 ![Border Closure in Slovakia](/images/covid19schengen/blurb.jpg)
+_Resumption of Border Controls at the Slovak Border_
 
 The Schengen Area, and the 1985 Schengen Agreement which created it, constitute a major showpiece of the European integration process spurred on after the traumas of World War II. The result of decades of negotiation stemming from the 1957 Treaty of Rome, which enshrined the free movement of people as one of its famous “Four Freedoms,” its establishment is regarded as a watershed moment in the development of the European Union, and, [according to the former German interior minister Manfred Kanter](https://www.theguardian.com/world/from-the-archive-blog/2020/mar/25/passport-controls-abolished-in-seven-european-countries-schengen-1995), “a milestone on the way to a united Europe.” From an initial group of five Western European countries, the area has since expanded to 26 states crossing the former Iron Curtain and countless other borders marked by centuries of bloodshed.
 
 Thirty years later, it’s the reason why Germans can commute to jobs in Switzerland, Danes can drive across the Øresund Bridge to Sweden to evade alcohol taxes, and American tourists can visit Paris, Barcelona, and Rome without showing their passport even once - after clearing immigration at Charles de Gaulle airport, of course. Indeed, [according to a 2019 Eurobarometer survey](https://www.europarl.europa.eu/at-your-service/files/be-heard/eurobarometer/2020/plenary-insights-march-2020-2/en-plenary-insights-march-2020-2.pdf), 60% of EU citizens polled ranked “free movement of people, goods, and services” as the most positive result of the EU, with 56% also indicating that they have benefitted from decreased border controls.
 
 ![Typical Schengen Border in Slovakia](/images/covid19schengen/typical-border.jpg)
+_A Typical Schengen Border in Slovakia_
 
 Nevertheless, on March 12th, 2020, with the coronavirus surging in Italy and threatening Spain, France, and Germany, these 26 countries took on a more austere denomination: a collective spot on the list of countries restricted from travel to the United States. Given the vast amount of transatlantic travel - nearly 6,747 flights scheduled during the month after the proclamation - the idea of banning citizens of the Schengen countries from entering the United States seemed like an unprecedented step even in the context of the coronavirus crisis. Soon, however, on March 17th, the states of the Schengen Area themselves approved a plan to close all external borders, echoing similar entry bans found across the world.
 
