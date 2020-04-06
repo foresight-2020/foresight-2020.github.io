@@ -13,17 +13,7 @@
   content="http://www.facebook.com/foresightIs2020"
 />
 
-{% if page.short %}
-<meta
-  property="og:image"
-  content="{{ site.url }}/images/{{ page.short}}/blurb.jpg"
-/>
-{% else %}
-<meta
-  property="og:image"
-  content="{{ site.url }}/images/cover-photo.png"
-/>
-{% endif %} 
+<meta property="og:image" content="{{ site.url }}/images/logo.png" />
 
 {% if page.excerpt %}
 <meta name="description" content="{{ page.excerpt| strip_html }}" />
@@ -31,13 +21,9 @@
 {% else %}
 <meta name="description" content="{{ site.description }}" />
 <meta property="og:description" content="{{ site.description }}" />
-{% endif %}
-
-{% if page.author %}
+{% endif %} {% if page.author %}
 <meta name="author" content="{{ page.author }}" />
-{% endif %}
-
-{% if page.title %}
+{% endif %} {% if page.title %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="twitter:title" content="{{ page.title }}" />
 {% endif %}
