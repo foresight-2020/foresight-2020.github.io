@@ -18,6 +18,11 @@
   property="og:image"
   content="{{ site.url }}/images/{{ page.short}}/blurb.jpg"
 />
+{% else %}
+<meta
+  property="og:image"
+  content="{{ site.url }}/images/cover-photo.png"
+/>
 {% endif %} 
 
 {% if page.excerpt %}
