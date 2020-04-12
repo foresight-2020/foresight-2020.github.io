@@ -9,11 +9,13 @@
   </div>
 
   <div class="post-preview-container">
-    <img
-      alt="{{ post.short }} blurb"
-      class="post-preview-image"
-      src="/images/{{ post. short}}/blurb.jpg"
-    />
+    {% unless post.no-blurb-image == "noimage" %}
+      <img
+        alt="{{ post.short }} blurb"
+        class="post-preview-image"
+        src="/images/{{ post. short}}/blurb.jpg"
+      />
+    {% endunless %}
     <span class="blurb-entry">
       {{ post.excerpt }}
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
