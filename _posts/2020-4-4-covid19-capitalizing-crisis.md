@@ -14,7 +14,7 @@ The COVID-19 pandemic has brought with it a huge number of globe-spanning effect
 
 These events have dominated the headlines of major news outlets and media sources for weeks. But behind the scenes, the pieces on the chessboard of international affairs keep moving. The People’s Republic of China, where the COVID-19 outbreak first originated, received a great deal of the initial media coverage, but that coverage has shifted ever since the explosion of new cases in the United States and Europe. Recent reports have circulated alternately praising China’s aggressive nationwide lockdown measures and condemning their supposed cover-up. But relatively little attention has been placed on China’s external-focused actions during this time period.
 
-![Chinese Military Medic](/images/covid19-capitalizing-crisis/chinese-military-medic.jpg)
+![Chinese Military Medic](/images/covid19-capitalizing-crisis/chinese-military-medic.jpg)<br>
 _A Chinese military medic readies for deployment in January 2020. Image sourced from [here.](https://www.defenseone.com/ideas/2020/02/coronavirus-spreads-chinas-military-has-been-largely-mia/162950/)_
 
 A recent report sent to the White House by three U.S. intelligence officials alleged that the People’s Republic had intentionally misled the global community in its reporting while the initial stages of the crisis unfolded within its borders. Many media outlets and experts in various fields have speculated that China is engaging in substantial underreporting of its number of COVID-19 infections and deaths.
