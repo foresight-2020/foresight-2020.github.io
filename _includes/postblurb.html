@@ -4,17 +4,17 @@
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </h2>
     <h4 class="post-preview-subheader">
-      By {{ post.author }}, {{ post.date-written }}
+      By {{ post.author }}, {{ post.date | date: "%B %e, %Y" }}
     </h4>
   </div>
 
   <div class="post-preview-container">
     {% unless post.no-blurb-image == "noimage" %}
-      <img
-        alt="{{ post.short }} blurb"
-        class="post-preview-image"
-        src="/images/{{ post. short}}/blurb.jpg"
-      />
+    <img
+      alt="{{ post.short }} blurb"
+      class="post-preview-image"
+      src="/images/{{ post. short}}/blurb.jpg"
+    />
     {% endunless %}
     <span class="blurb-entry">
       {{ post.excerpt }}

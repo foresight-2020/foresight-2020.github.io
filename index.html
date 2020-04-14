@@ -4,5 +4,6 @@ title: Latest Posts
 ---
 
 <div class="posts">
-  {% for post in site.posts %} {% include postblurb.html %} {% endfor %}
+  {% assign sortedPosts = site.posts | sort: 'date' %} {% for post in
+  sortedPosts reversed %} {% include postblurb.html %} {% endfor %}
 </div>
