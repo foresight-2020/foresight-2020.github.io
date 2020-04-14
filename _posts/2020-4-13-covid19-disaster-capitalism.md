@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COVID-19 Capitalism and The Neoliberal Shock Doctrine
+title: COVID Capitalism and The Neoliberal Shock Doctrine
 short: covid19disastercapitalism
 categories: Politics
 author: Davis Tyler-Dudley
