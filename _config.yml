@@ -8,6 +8,9 @@ name: Foresight is 20/20
 # Short bio or description (displayed in the header)
 description: COVID-19, Markets, and Politics
 
+# used for Google meta tag
+long_description: Objective, data-driven analysis on financial markets and global politics.
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logo-no-text.png
 
