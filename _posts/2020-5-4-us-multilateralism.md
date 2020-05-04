@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leadership, Not Dominance - America's Dangerous Shift Away from Multilateralism
+title: Leadership vs. Dominance - America's Dangerous Shift Away from Multilateralism
 short: us-multilateralism
 categories: Politics
 author: Davis Tyler-Dudley
