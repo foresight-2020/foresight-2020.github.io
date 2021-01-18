@@ -6,6 +6,7 @@ categories: Markets
 author: Nihar Sheth
 date-written: April 11th, 2020
 no-blurb-image: noimage
+canonical: https://niharsheth.substack.com/p/discount-rates-matter
 ---
 
 I recently read this [post](http://brooklyninvestor.blogspot.com/2020/03/who-cares-what-mr-market-thinks.html) by the Brooklyn Investor about the normative impact of COVID-19 on equities. The post itself was excellent, and elucidated in a mathematical way the intuition that I and a lot of other investors have had about COVID-19’s impact, but there were nuances that I wanted to build on here.

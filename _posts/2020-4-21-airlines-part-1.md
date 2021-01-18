@@ -6,6 +6,7 @@ categories: Markets
 author: Nihar Sheth
 date-written: April 21st, 2020
 excerpt: <p> Given the market carnage that COVID-19 has wrought upon anything in the travel and entertainment space, I thought it would be particularly relevant to do a series of posts on airlines and how they’ve been impacted. This post will lay the groundwork. </p>
+canonical: https://niharsheth.substack.com/p/airlines-part-i
 ---
 
 ![Parked Lufthansa Aircraft](/images/airlines1/blurb.jpg)

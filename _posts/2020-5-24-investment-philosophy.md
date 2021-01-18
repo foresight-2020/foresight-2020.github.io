@@ -7,6 +7,7 @@ author: Nihar Sheth
 date-written: May 24th, 2020
 no-blurb-image: noimage
 excerpt: <p>A portfolio management strategy can be described across two axes, frequency and concentration. Frequency correlates inversely with holding period for companies in the portfolio, and concentration measures how much money is put into each position.</p>
+canonical: https://niharsheth.substack.com/p/investment-philosophy
 ---
 
 This post is going to be a bit different from the previous posts. It’s going to be less data-heavy and unrelated to COVID-19, but it’s about an important topic that I’ve been thinking about recently.

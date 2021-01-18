@@ -6,6 +6,7 @@ categories: Markets
 author: Nihar Sheth
 date-written: May 4th, 2020
 excerpt: <p>Airlines have been a challenged industry historically. However, Southwest Airlines and Ryanair have stood out as exceptions and have distinguished themselves as consistent financial success stories. In this post, we explore the characteristics (liquidity, leverage, cost of operations, etc.) that have set apart these two airlines.</p>
+canonical: https://niharsheth.substack.com/p/airlines-part-ii
 ---
 
 This post is a continuation of [Airlines, Part I](https://foresight2020.co/markets/2020/04/21/airlines-part-1/). Please read that article first if you haven’t already.

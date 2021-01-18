@@ -6,6 +6,7 @@ categories: Markets
 author: Nihar Sheth
 date-written: April 4th, 2020
 excerpt: <p>In their excellent book, <i>Superforecasting</i>, Philip Tetlock and Dan Gardner make the case that there are two ways to look at any situation - the “inside view” and the “outside view.” The inside view looks at the specifics of the situation and tries to make judgements about how it will play out. The outside view looks at historical precedents for that situation, and tries to anchor predictions to those historical examples.</p>
+canonical: https://niharsheth.substack.com/p/how-low-will-it-go
 ---
 
 In their excellent book, <i>Superforecasting</i>, Philip Tetlock and Dan Gardner make the case that there are two ways to look at any situation: the “inside view” and the “outside view.” The inside view looks at the specifics of the situation and tries to make judgements about how it will play out. The outside view looks at historical precedents for that situation, and tries to anchor predictions to those historical examples.
